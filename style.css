@@ -1,15 +1,16 @@
 body {
   font-family: serif;
 }
-h1 b {
+h1 {
   color: rgba(88, 87, 87, 0.993);
   font-size: 85px;
   margin: 0px;
 }
-h2 u {
+h2 {
   color: rgba(88, 87, 87, 0.993);
+  text-decoration: underline;
 }
-h3 b {
+h3 {
   font-family: "Times New Roman", Times, serif;
   text-decoration: none;
 }
